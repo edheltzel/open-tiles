@@ -4,8 +4,6 @@ This is a repository for open source style tiles for developers who need design 
 
 Style tiles were developed by Samantha Warren.  To learn more about style tiles, check out her website: [styletil.es](http://www.styletil.es).
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. So, if you don't want your designs to be open source, don't add them!
-
 ## Labeling Style Tiles
 
 Please make sure to include the following labels in your style tile:
@@ -49,3 +47,5 @@ Attribution is not required for these styles, but if you would like to add your 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
 </a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. So, if you don't want your designs to be open source, don't add them!
