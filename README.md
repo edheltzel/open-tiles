@@ -6,6 +6,8 @@ Style tiles were developed by Samantha Warren.  To learn more about style tiles,
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. So, if you don't want your designs to be open source, don't add them!
 
+#### Versions:
+[Figma File](https://www.figma.com/file/8H3k2GvDxsaqLqvZXv25O6/open-tiles?node-id=0%3A1)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
